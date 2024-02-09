@@ -7,6 +7,8 @@ public class Array3D {
 		System.out.println(arr[0][0][0]);
 		System.out.println(arr[1][0][0]);
 		System.out.println(arr[1][1][2]);
+		System.out.println(arr.length);
+		System.out.println(arr.hashCode());
 
 	}
 
